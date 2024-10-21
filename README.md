@@ -18,3 +18,4 @@
 - **Java** – основной язык программирования.
 - **Spring Boot** – фреймворк для создания REST API.
 - **PostgreSQL** – реляционная база данных для хранения информации о пользователях и операциях.
+![image](https://github.com/user-attachments/assets/fd28ad0b-e8b7-438e-a6d9-024b90785dd8)
