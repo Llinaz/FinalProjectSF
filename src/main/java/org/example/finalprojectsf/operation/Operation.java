@@ -47,6 +47,8 @@ public class Operation {
         this.operationType = operationType;
     }
 
+
+
     public int getAmount() {
         return amount;
     }
